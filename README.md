@@ -16,6 +16,10 @@ word = input("Enter a word: ")
 
 Create a file called **selection.py** and upload it to this repository. In that file, write a program that asks the user for their pdsb email which will end in @pdsb.net. Your program will determine if the user is a teacher, grade 9 student, grade 10 student, grade 11 student or grade 12 student.
 
+# Output Specification
+
+One of: teacher, grade 9, grade 10, grade 11, grade 12, not in pdsb
+
 Their user id is everything before the @pdsb.net.
 
 If their user id starts with p, then they are a teacher.
