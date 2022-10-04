@@ -20,6 +20,8 @@ Create a file called **selection.py** and upload it to this repository. In that 
 
 One of: teacher, grade 9, grade 10, grade 11, grade 12, not in pdsb
 
+---
+
 Their user id is everything before the @pdsb.net.
 
 If their user id starts with p, then they are a teacher.
